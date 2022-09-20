@@ -19,7 +19,7 @@
     "@angular/animations": "11.0.4",
     "@angular/common": "11.0.4",
     "@angular/compiler": "11.0.4",
-    "@angular/core": "14.2.2",
+    "@angular/core": "11.0.4",
     "@angular/forms": "11.0.4",
     "@angular/http": "7.2.16",
     "@angular/localize": "^11.0.4",
